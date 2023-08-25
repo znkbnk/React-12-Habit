@@ -4,7 +4,7 @@ Step 1: Styling the Navigation Menu
 - Create a style for the .nav-menu class. Set its properties to make
 it sticky, position it at the top of the screen, and give it
 a background color, padding, and a shadow.
-Inside the .nav-menu style, create a style for the button (button tag).
+- Inside the .nav-menu style, create a style for the button (button tag).
 - Adjust properties like background color, text color, border,
 border radius, and cursor to style the button.
 
